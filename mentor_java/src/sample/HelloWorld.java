@@ -10,6 +10,7 @@ public class HelloWorld {
 		System.out.println("444444444444444");
 		
 		/*
+		이클립스 버전 체크용
 		Version: 2020-03 (4.15.0)
 		Build id: 20200313-1211
 		*/
