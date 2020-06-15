@@ -9,8 +9,8 @@ public class FileIO1 {
 		FileInputStream fis = null;
 		FileOutputStream fos = null;
 		
-		fis = new FileInputStream("E:\\eclipse_edu\\repository\\mentor_java\\src\\IO\\prac.txt");
-		fos = new FileOutputStream("E:\\eclipse_edu\\repository\\mentor_java\\src\\IO\\result.txt");
+		fis = new FileInputStream(".\\src\\IO\\prac.txt");
+		fos = new FileOutputStream(".\\src\\IO\\result.txt");
 		
 		BufferedInputStream bis = new BufferedInputStream(fis);
 		BufferedOutputStream bos = new BufferedOutputStream(fos);
