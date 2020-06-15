@@ -1,4 +1,4 @@
-package polymorphism;
+package polymorphism_ex;
 
 class Animal{
 	void breath(){

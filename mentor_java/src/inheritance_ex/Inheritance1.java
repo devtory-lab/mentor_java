@@ -1,4 +1,4 @@
-package inheritance;
+package inheritance_ex;
 
 class Person {
 	void breath() {

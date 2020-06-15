@@ -1,4 +1,4 @@
-package abstact;
+package abstact_ex;
 
 abstract class Pokemon{
 	String name;
